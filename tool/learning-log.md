@@ -1,13 +1,16 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Chart.js**
 
-## Project: **X**
+## Project: **Earth sustainability**
 
 ---
 
-### X/X/XX:
-* Text
+### 10/19/26:
+* CDN setup used from code given from chart. js docs
+``` js
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+```
 
 ### X/X/XX:
 * Text
