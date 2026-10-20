@@ -11,6 +11,8 @@
 ``` js
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 ```
+* and then I used a demo of the bar chart
+
 
 ### X/X/XX:
 * Text
