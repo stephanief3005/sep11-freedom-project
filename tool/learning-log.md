@@ -6,7 +6,7 @@
 
 ---
 
-### 10/28/26:
+10/28/26
 
 Instead of jumping to the samples I firstly went to the Getting Started Page and I am working on step by step guide first. As suggested. There was many processes to building a chart.js data visualizer. First I started on a simple chart.
 
