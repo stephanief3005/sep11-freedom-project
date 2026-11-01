@@ -10,7 +10,7 @@
 
 Instead of jumping to the samples I firstly went to the Getting Started Page and I am working on step by step guide first. As suggested. There was many processes to building a chart.js data visualizer. First I started on a simple chart.
 
-!(Picture of IDE setup on example)[]
+!(Picture of IDE setup on example)[terminal.png]
 !(Results of npm run dev)[]
 
 Take aways I learned is: 
