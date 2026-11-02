@@ -31,7 +31,7 @@ After working with input data the next step on the step by step guide is to use 
 
 I learned that its a software application that shares informations from other sources and can bring back the info my link. Making it called real world data.
 
-What I did in my IDE was
+![Product 1](../tool/photos/product2.png)
 
 10/31/26
 <!-- 
