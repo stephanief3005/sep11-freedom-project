@@ -34,6 +34,7 @@ I learned that its a software application that shares informations from other so
 ![Product 1](../tool/photos/product2.png)
 
 10/31/26
+So today I finished the rest of it till it says it looks much better now overall I learned how to make 3 different types of charts . My image isnt downloading of the chart so Ill update it soon. I also learned how bubble charts can show 3 dimmensiosn with  x and y axis
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
