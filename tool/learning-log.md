@@ -10,12 +10,12 @@
 
 Instead of jumping to the samples I firstly went to the Getting Started Page and I am working on step by step guide first. As suggested. There was many processes to building a chart.js data visualizer. First I started on a simple chart.
 
-!(Picture of IDE setup on example)[terminal.png]
+!(Picture of IDE setup on example)[terminal1.png]
 !(Results of npm run dev)[]
 
 Take aways I learned is: 
 * the new http-server I use now is npm run dev to preview my chart.
-* Chart.js requires instalattions through folders as it says in the link [link](https://www.chartjs.org/docs/latest/getting-started/)
+* Chart.js requires instalattions through folders as it says in the [link](https://www.chartjs.org/docs/latest/getting-started/)
 
 10/29/26
 Today I continued on the step by step guide had a few time but continued on simple customization section I learned that.
