@@ -28,6 +28,21 @@ Today I continued on the step by step guide continued on simple customization se
 I also use my IDE to continue the following steps
 * In my IDE I repliced the new chart code in src/acquisitations.js with a snippet given too customize the code I put true and false for animations to see the difference it gives.
 
+11/4/26
+
+
+After working with input data the next step on the step by step guide is to use real world data. So in the Real world data onward section till the other further customizations
+
+
+I learned that its a software application that shares informations from other sources and can bring back the info my link. Making it called real world data.
+
+
+![Product 1](../tool/photos/product2.png)
+
+
+11/5/26
+So today I finished the rest of it till it says it looks much better now overall I learned how to make 3 different types of charts . My image isnt downloading of the chart so Ill update it soon. I also learned how bubble charts can show 3 dimmensiosn with  x and y axis
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
