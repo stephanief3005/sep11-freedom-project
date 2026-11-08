@@ -63,6 +63,16 @@ In the step by step guide we are working with a different type of chart bubble c
 ![Bubble Chart](../tool/photos/bubblechart1.png)
 
 11/7/26
+Today Im still gonna continue on the bubble chart and then tomorrow move on to general
+
+[link used](https://www.chartjs.org/docs/latest/getting-started/)
+
+In the bubble chart there seems to be more adjustments.
+* On the src/dimensionss.js page on the x and y axis numbers in the new chart function we apply custom tick formats so instead of values ranging from 0-500 theres cm instead
+* After that part of the guide. I learned that on chart.js I can apply custom styles on the bubbles
+* Within their own data sets from taller art works to wider ones , each of them have their own filter that makes the 3 color coding appear above the chart
+
+![Bubble Chart](../tool/photos/bubblechart2.png)
 
 11/8/26
 <!-- 
