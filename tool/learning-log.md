@@ -18,7 +18,7 @@ What I specifically did according to the steps is I created a seperate folder fo
 
 Takeaways I learned is: 
 * the new http-server I use now is npm run dev to preview my chart.
-* Chart.js requires instalattions through folders as it says in the [link](https://www.chartjs.org/docs/latest/getting-started/)
+* Chart.js requires instalattions through folders as it says in the [link used](https://www.chartjs.org/docs/latest/getting-started/)
 
 11/3/26
 Today I continued on the step by step guide continued on simple customization section I learned that.
@@ -27,6 +27,8 @@ Today I continued on the step by step guide continued on simple customization se
 
 I also use my IDE to continue the following steps
 * In my IDE I repliced the new chart code in src/acquisitations.js with a snippet given too customize the code I put true and false for animations to see the difference it gives.
+
+[link used](https://www.chartjs.org/docs/latest/getting-started/)
 
 11/4/26
 
@@ -38,6 +40,7 @@ I learned that its a software application that shares informations from other so
 
 
 ![Product 1](../tool/photos/product2.png)
+[link used](https://www.chartjs.org/docs/latest/getting-started/)
 
 
 11/5/26
@@ -46,6 +49,9 @@ Today I worked on a new type of chart called real world data. In order to get th
 * getAqusitionsByYear is plugged back in to const data in src/acquisitations.js to define the data variable so its plugged in the graph since we are working with a different chart
 * Below is a picture of the results from my terminal after running with npm run dev
 ![Product 1](../tool/photos/product2.png)
+[link used](https://www.chartjs.org/docs/latest/getting-started/)
+
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
