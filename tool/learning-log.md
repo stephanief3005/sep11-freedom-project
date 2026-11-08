@@ -41,7 +41,9 @@ I learned that its a software application that shares informations from other so
 
 
 11/5/26
-So today I finished the rest of it till it says it looks much better now overall I learned how to make 3 different types of charts . My image isnt downloading of the chart so Ill update it soon. I also learned how bubble charts can show 3 dimmensiosn with  x and y axis
+Today I worked on a new type of chart called real world data. In order to get that done with I did the following
+* In my chart js example file in src/api.js I input it with the step by step guide following contents which connected to an a data api from cube js we use the api to connect with a public data base where we got our information for our chart. In the code they fetch data by getAqusitionsByYear: returns us the number of artworks by the yearr. getdemensions: will be used to return number of artwork by measurements for a other chart. In the code measures gives us count of artworks. We call the api then map it to an array with properties like year and count . This can be essential to know for my freedom project. When getting data of electricity use population etc.
+* getAqusitionsByYear is plugged back in to const data in src/acquisitations.js to define the data variable so its plugged in the graph since we are working with a different chart
 
 <!-- 
 * Links you used today (websites, videos, etc)
