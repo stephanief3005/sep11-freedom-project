@@ -51,6 +51,15 @@ Today I worked on a new type of chart called real world data. In order to get th
 ![Product 1](../tool/photos/product2.png)
 [link used](https://www.chartjs.org/docs/latest/getting-started/)
 
+11/6/26
+Continuation on the step by step guide on [link used](https://www.chartjs.org/docs/latest/getting-started/).
+
+In the step by step guide we are working with a different type of chart bubble charts with the same api data from yesterday.
+* I create a new file called dimensions.js in the src folder with a code snippet.
+* In order to choose which type of chart we are working with  within the new chart the type has to be bubble. Within it  there is the maps using the x and y axis and radius properties
+* rm -rf .parcel-cache = used in terminal to reset cache when switching with chart used
+* I used npm run dev but it still showed yesterdays code therefor I commented all of yesterdays data set ran it again and the bubble chart worked
+
 
 
 <!-- 
