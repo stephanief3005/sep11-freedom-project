@@ -62,6 +62,9 @@ In the step by step guide we are working with a different type of chart bubble c
 
 ![Bubble Chart](../tool/photos/bubblechart1.png)
 
+11/7/26
+
+11/8/26
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
