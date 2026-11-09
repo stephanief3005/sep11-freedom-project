@@ -1,7 +1,13 @@
 # Entry 1
-##### X/X/XX
+##### 11/9/26
 
-Text
+Content:
+* Ive decided to go with (tool) and Ive tinkered with it
+
+* What im going to make
+
+Sources: 
+Link to tools ive considered and their resource
 
 [Next](entry02.md)
 
