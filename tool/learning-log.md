@@ -6,7 +6,7 @@
 
 ---
 
-Start of learning log 2 : 11/2/26-11/9/26
+ learning log 2 : 11/2/26-11/9/26
 11/2/26
 
 Instead of jumping to the samples I firstly went to the Getting Started Page and I am working on step by step guide first. As suggested. There was many processes to building a chart.js data visualizer. First I started on a simple chart.
