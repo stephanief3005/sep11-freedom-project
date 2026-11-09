@@ -75,6 +75,21 @@ In the bubble chart there seems to be more adjustments.
 ![Bubble Chart](../tool/photos/bubblechart2.png)
 
 11/8/26
+
+Today I focused on learning generals
+
+I learned the following 
+* Canvas for accesibility: HTML element used to draw and display charts. But people who are reading the screen can't read the visuals content. So using aria-label --> It tells the screen reader whats in the chart. role img tells it that the canvas is a image
+``` js
+<canvas id="goodCanvas1" width="400" height="100" aria-label="Hello ARIA World" role="img"></canvas>
+```
+* Color options : you can change background charts, border , text by using individual data sets , defaults and color palettes , like the bubble chart we used palettes
+* Data structure: you can organize your charts by using array numbers , objects with these following configurations I found while reading through
+![Photo](../tool/photos/General1.png)
+
+
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
