@@ -11,7 +11,7 @@ I've considered sticking with the official website of [Chart.js](https://www.cha
 Right now I am going on to defining the problem. How people should be aware of Earth sustainability and its technologies and software. How these apps can be essential to achieving that with the given data. Now that I have my tool and my topic its up for me to update work on stuff on learning more on chart.js and creating prototypes for my freedom project.
 
 ## Skills
-The skills I've gained so far are keeping up with learning on my own. By tinkering and taking notes. Most importantly, consideration. I was thinking of creating a freedom project on hair and beauty. But after brainstorming, I came up with the best idea. Which is combining the topic of earth sustainability with its technologies, therefore software. I think it has a good impact on people to know there can be hope; there are ways of using technology and Earth's resources efficiently.
+The skills I've gained so far are keeping up with learning on my own. By tinkering and taking notes. Most importantly, consideration. I was thinking of creating a freedom project on hair and beauty. But after brainstorming, I came up with the best idea. Which is combining the topic of earth sustainability with its technologies, therefore software. I think it has a good impact on people to know there can be hope there are ways of using technology and Earth's resources efficiently.
 
 [Next](entry02.md)
 
