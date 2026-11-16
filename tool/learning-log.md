@@ -43,6 +43,13 @@ I learned that its a software application that shares informations from other so
 11/5/26
 So today I finished the rest of it till it says it looks much better now overall I learned how to make 3 different types of charts . My image isnt downloading of the chart so Ill update it soon. I also learned how bubble charts can show 3 dimmensiosn with  x and y axis
 
+11/6/26
+I decided to today to get done with the step by step guide since I wanna go ahead to learning the generals.
+
+
+11/7/26
+
+11/8/26
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
