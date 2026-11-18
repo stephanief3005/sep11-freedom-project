@@ -98,6 +98,7 @@ Today I went back through my notes and decided to setup chart.js on my freedom p
 11/17/26
 Learn the rest 4 generals
 
+* **Colors**:
 11/18/26
 Learn 2-3 configurations
 
