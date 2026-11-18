@@ -93,6 +93,8 @@ Learning log 3 (Start: Nov 16 End: Monday : Nov 23)
 11/16/26
 Today I went back through my notes and decided to setup chart.js on my freedom project by putting the installation script on my current index.html. And testing out tinkering with a code in my script.js it worked. I had to make sure my canvas id so name of my chart matched the one on my script.js in order for it to appear.
 
+![Product 1](../tool/photos/graphy1.png)
+
 11/17/26
 Learn the rest 4 generals
 
