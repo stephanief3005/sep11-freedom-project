@@ -94,10 +94,32 @@ Learning log 3 (Start: Nov 16 End: Monday : Nov 23)
 Today I went back through my notes and decided to setup chart.js on my freedom project by putting the installation script on my current index.html. And testing out tinkering with a code in my script.js it worked. I had to make sure my canvas id so name of my chart matched the one on my script.js in order for it to appear.
 
 11/17/26
-Learn the rest 4 generals
+
+* Fonts: There are 3 types of ways to use fonts on chart.js
+the names of how to apply charts are: family, size, style, weight and height line
+1. Global settings: changes all fonts of my chart `Chart.defaults.font`
+2. Use font inside the code for a specific part of the chart
+3. Using other fonts such as google fonts
+
+Tinker: I tried out fonts by using the getting started chart to apply what I learned. I used chart.defaults.font.family too add a monospace font for all fonts on the chart from google fonts.
+
+[link used](https://www.chartjs.org/docs/latest/general/fonts.html)
 
 11/18/26
-Learn 2-3 configurations
+
+**Options**:
+* Chart checks 3 level 1. Options 2. Config type 3. Default 
+* Options for chart.js means what options does chart.js have to chose how the chart will work if some component that its looking for isn't available then it will skip or override that 
+* less items than data = items are looped over so function use is better
+
+11/19/26
+
+11/20/26
+
+
+11/21/26
+
+11/22/26
 
 <!-- 
 * Links you used today (websites, videos, etc)
