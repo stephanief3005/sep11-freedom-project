@@ -93,6 +93,8 @@ Learning log 3 (Start: Nov 16 End: Monday : Nov 23)
 11/16/26
 Today I went back through my notes and decided to setup chart.js on my freedom project by putting the installation script on my current index.html. And testing out tinkering with a code in my script.js it worked. I had to make sure my canvas id so name of my chart matched the one on my script.js in order for it to appear.
 
+![Product 1](../tool/photos/graphy1.png)
+
 11/17/26
 
 * Fonts: There are 3 types of ways to use fonts on chart.js
@@ -105,20 +107,50 @@ Tinker: I tried out fonts by using the getting started chart to apply what I lea
 
 [link used](https://www.chartjs.org/docs/latest/general/fonts.html)
 
+* **Colors**:
 11/18/26
 
 **Options**:
 * Chart checks 3 level 1. Options 2. Config type 3. Default 
 * Options for chart.js means what options does chart.js have to chose how the chart will work if some component that its looking for isn't available then it will skip or override that 
 * less items than data = items are looped over so function use is better
+* I tinkered with my playground.html and its similar too selecting fonts inside the code for a specific part of the chart in fonts yesterday so that code overrides chart.defaults.font
 
 11/19/26
 
+**Padding**:
+
+* when using padding if a padding is `padding:#` a number therefor all the sides top right left bottom will have equal padding
+* I can give specific padding to a side instead
+* x and y axes can have padding around too
+
+what would go first to last
+options --> layout --> padding --> sides --> ticks --> backdrop padding
+
+I tinkered and added padding of 50
+
+[link used](https://www.chartjs.org/docs/latest/general/padding.html)
+
 11/20/26
 
+**Performence** (tips for large datasets / performence sensitive applications)
+* Provide prepared data in internal format = parsing: false
+* If data with indices that are unique sorted consistent across data sets = normalized: true
+* Alot of data on the graph show tens of thousand of data points (reducing unnecessary tons of points): use data decimation
+* Chart has long render times = animation: false --> reducing cpu usage improving page performence
+* Scale no longer has to compute the range from data = specify min and max scales
+* Drawing lines of chart , disable Bezier curves = improve render times ( straight line is better than a bezier curve)
+
+[link used](https://www.chartjs.org/docs/latest/general/performance.html)
 
 11/21/26
-
+**Configuration**: Used for how chart behaves
+* Top level structure : type --> data --> options --> plugins
+* type : main type of chart
+* data structures: in general
+* options: 
+* plugins: Inline plugins can be included in this array : mostly for a single chart
+* Global configuration : global general options are in chart.defaults
 11/22/26
 
 <!-- 
