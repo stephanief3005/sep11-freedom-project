@@ -105,6 +105,7 @@ the names of how to apply charts are: family, size, style, weight and height lin
 
 Tinker: I tried out fonts by using the getting started chart to apply what I learned. I used chart.defaults.font.family too add a monospace font for all fonts on the chart from google fonts.
 
+![Fonts](../tool/photos/fontschart.png)
 [link used](https://www.chartjs.org/docs/latest/general/fonts.html)
 
 * **Colors**:
@@ -151,8 +152,17 @@ I tinkered and added padding of 50
 * options: 
 * plugins: Inline plugins can be included in this array : mostly for a single chart
 * Global configuration : global general options are in chart.defaults
-11/22/26
 
+I tinkered with my playground.html but it wasn't loading so I copied and paste it to my jsbin
+
+![img](../tool/photos/configtinker.png)
+[link used](https://www.chartjs.org/docs/latest/configuration/)
+
+11/22/26
+**Animations**: Many options of animations especially time it takes
+* use false to disable
+* Looking through the options I don`t think its necessary but maybe for the circle charts it would be cool to add animations 
+* Animation progress bar would make good use perhaps
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
