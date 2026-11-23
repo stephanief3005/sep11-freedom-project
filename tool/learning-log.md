@@ -163,6 +163,17 @@ I tinkered with my playground.html but it wasn't loading so I copied and paste i
 * use false to disable
 * Looking through the options I don`t think its necessary but maybe for the circle charts it would be cool to add animations 
 * Animation progress bar would make good use perhaps
+
+tinkered and made a jump effect on the graph in my playground.html
+
+I added this code to options :
+``` js
+   animation: {
+        duration: 1800,          
+        easing: 'easeOutBounce'  
+      },
+```
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
