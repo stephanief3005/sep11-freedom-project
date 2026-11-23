@@ -173,7 +173,53 @@ I added this code to options :
         easing: 'easeOutBounce'  
       },
 ```
+**LL4 11/23-11/30**
 
+**11/23/26**
+
+*Canvas background*
+* Use a plugin to draw a color or image to the background
+
+To draw a color using plugins 
+``` js 
+options: {
+    plugins: {
+      customCanvasBackgroundColor: {
+        color: 'lightGreen',
+      }
+    }
+  },
+```
+
+Image to the background
+
+**11/24/26**
+
+*Data decimation*: decimate data at the start of the chart lifecycle
+* Name space for data decimation on a part of the code : `option.plugins.decimation`
+* Global options : `Chart.defaults.plugins.decimation`
+
+**11/25/26**
+*Device pixel ratio*
+
+Charts canvas uses 1:1 pixel ratio,
+* `devicePixelRatio` : when it's another value than 1 forces the canvas to be scaled by that amount
+
+**11/26/26**
+
+*Elements*: 
+
+**11/27/26**
+
+*Interactions*
+
+**11/28/26**
+
+*Layout*
+
+**11/29/26**
+
+*Legend*
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
